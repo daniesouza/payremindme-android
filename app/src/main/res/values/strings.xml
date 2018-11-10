@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">HelloAndroid 2</string>
     <string name="dados_do_cliente">Dados do cliente</string>
-    <string name="informe_o_nome_do_cliente">Informe o nome do cliente</string>
+    <string name="nome_do_cliente">Nome do cliente</string>
     <string name="escolha_a_s_pizzas_s">Escolha a(s) pizzas(s)</string>
     <string name="atum">Atum</string>
     <string name="bacon">Bacon</string>
@@ -19,5 +19,8 @@
     <string name="fiado">Fiado</string>
     <string name="cupom">Cupom</string>
     <string name="calcular">Calcular</string>
+    <string name="saudacao">Olá %1$s. Vamos ligar para o número %2$s</string>
+    <string name="informe_o_nome_do_cliente">Informe o nome do cliente</string>
+    <string name="imagem">imagem</string>
 
 </resources>
